@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @J-HCode
-- 👀 I’m interested in Coding, Games and other nerdstuff
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me ...
 
